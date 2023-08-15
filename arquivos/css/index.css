@@ -1,0 +1,78 @@
+    /* Estilos para o layout responsivo */
+    * {
+        box-sizing: border-box;
+      }
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      .column {
+        float: left;
+        width: 100%;
+        padding: 10px;
+      }
+      @media screen and (min-width: 600px) {
+        .column {
+          width: 50%;
+        }
+      }
+      @media screen and (min-width: 900px) {
+        .column {
+          width: 30.33%;
+        }
+      }
+      /* Estilos para os cartões */
+      .card {
+        background-color: #f7f7f7;
+        border-radius: 5px;
+        padding: 20px;
+        margin-bottom: 20px;
+      }
+      .card h2 {
+        margin-top: 0;
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      .card p {
+        font-size: 16px;
+        margin-bottom: 10px;
+      }
+      .card img {
+        height: auto;
+        width: 100%;
+        border-radius: 5px;
+        margin-bottom: 10px;
+      }
+
+      #Formbuscar {
+        display: flex;
+        align-items: center;
+        }
+    
+        #Formbuscar label {
+          margin-right: 10px;
+          font-size: 16px;
+        }
+    
+        #Formbuscar input[type="text"] {
+          padding: 5px 10px;
+          border: 2px solid #ccc;
+          border-radius: 5px;
+          font-size: 16px;
+          flex: 1;
+        }
+    
+        #Formbuscar button {
+          padding: 5px 10px;
+          background-color: #4CAF50;
+          color: #fff;
+          border: none;
+          border-radius: 5px;
+          font-size: 16px;
+          cursor: pointer;
+        }
+    
+        #Formbuscar button:hover {
+          background-color: #3e8e41;
+        }

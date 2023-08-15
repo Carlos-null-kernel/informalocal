@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Italiana Pizzaria",
+        "Descricao":"Pizzaria",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Pizzaria/Italiana-Pizzaria/",
+        "Rua":"29",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"La Torre Pizzaria",
+        "Descricao":"Pizzaria",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Pizzaria/La-Torre-Pizzaria/",
+        "Rua":"Pará",
+        "Data":"Mai de 2023"
+    }
+]
+

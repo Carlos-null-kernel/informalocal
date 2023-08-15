@@ -1,0 +1,43 @@
+[
+    {
+        "Titulo":"Lotéria Sorte Grande",
+        "Descricao":"Casas Lotéricas",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/loteria-loterica/Loteria-Sorte-Grande/",
+        "Rua":"Goiás",
+        "Data":"Abril de 2023"
+    },
+    {
+        "Titulo":"Lotéria do Joaquim",
+        "Descricao":"Casas Lotéricas",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/loteria-loterica/Loteria-do-Joaquim/",
+        "Rua":"Goiás",
+        "Data":"Abril de 2023"
+    },
+    {
+        "Titulo":"Loteria Mina de Ouro",
+        "Descricao":"LOTÉRIA PAI E FILHO",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/loteria-loterica/Loteria-Mina-de-Ouro/",
+        "Rua":"Pará",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Lotéria Goianésia",
+        "Descricao":"Lotérias",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/loteria-loterica/Loteria-Goianesia/",
+        "Rua":"Brasil",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Agiliza Correspondente Bancário",
+        "Descricao":"Casas Lotéricas",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/loteria-loterica/Agiliza-Correspondente-Bancario/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    }
+]
+

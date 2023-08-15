@@ -1,0 +1,50 @@
+[
+    {
+        "Titulo":"CLINICARDIO & PREVENCOR",
+        "Descricao":"CONSULTAS: Dr. Cristiano Inácio Pereira - Clínica Médica - Cardiológia. Dr. João Gilberto De Vito - Cardiologista - Ecocardiografista Dra. Marilia Campos Caetano - Fisioterapeuta EXAMES: Teste ergométrico Ecodopplercardiograma Risco cirúrgico Eletrocardiograma Mapa 24 horas Holter 24 horas FISIOTERAPIA",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Clinica-medica/CLINICARDIO-PREVENCOR",
+        "Rua":"33",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Clínica de Olhos Goianésia",
+        "Descricao":"Clínica de Olhos",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Clinica-medica/Clinica-de-Olhos-Goianesia",
+        "Rua":"29",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Affeto Espaço Clínico",
+        "Descricao":"R. 31, 448 - Centro, Goianésia - GO, 76380-031",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Clinica-medica/Affeto-Espaco-Clinico",
+        "Rua":"31",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Climagem – Centro de diagnóstico por imagem de Goianésia",
+        "Descricao":"Ressonância | Tomografia Computadorizada | Ultrassonografia | Raio-X Digital | Excretora |Mamografia Digital | Ecocardiograma | Eletrocardiograma | Fisioterapia Ortopédica Magnética | Eletroencefalograma | Doppler Vascular | Consultas Médicas | Densitometria óssea",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Clinica-medica/Climagem",
+        "Rua":"33",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"CLIMAGEM SUL",
+        "Descricao":"Ressonância | Tomografia Computadorizada | Ultrassonografia | Raio-X Digital | Excretora |Mamografia Digital | Ecocardiograma | Eletrocardiograma | Fisioterapia Ortopédica Magnética | Eletroencefalograma | Doppler Vascular | Consultas Médicas | Densitometria óssea",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Clinica-medica/Climagem-GDL",
+        "Rua":"33",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"CMA Centro De Medicina Avançada",
+        "Descricao":"Clínica especializada",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Clinica-medica/Centro-De-Medicina-Avancada",
+        "Rua":"33",
+        "Data":"Mai de 2023"
+    }
+]

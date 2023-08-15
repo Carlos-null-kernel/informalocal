@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Talm Uniformes",
+        "Descricao":"Loja de roupas de designer",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Roupas/Talm-Uniformes/",
+        "Rua":"29",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Danila Magalhães",
+        "Descricao":"Loja de moda feminina",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Roupas/Danila-Magalhaes/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    }
+]
+

@@ -1,0 +1,59 @@
+[
+    {
+        "Titulo":"POSTO DUTZZO 2",
+        "Descricao":"Posto de Abastecimento",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/POSTO-DUTZZO-2/",
+        "Rua":"26",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Posto Ipiranga",
+        "Descricao":"Posto de Abastecimento",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/Posto-Ipiranga/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Posto Marinheiro I",
+        "Descricao":"Posto de Abastecimento",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/Posto-Marinheiro-I/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Posto Ipiranga (Próximo ao ÉBásico",
+        "Descricao":"Posto de Abastecimento",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/Posto-Ipiranga-centro/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Auto posto Shell",
+        "Descricao":"Posto de Abastecimento",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/Auto-posto-Shell/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"BRASCOM COMBUSTÍVEIS",
+        "Descricao":"AUTO POSTO CONTORNO LTDA",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/BRASCOM-COMBUSTIVEIS/",
+        "Rua":"Contorno",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Auto Posto Universitário",
+        "Descricao":"Posto de gasolina",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Posto-de-abastecimento/Auto-Posto-Universitario/",
+        "Rua":"Contorno",
+        "Data":"Mai de 2023"
+    }
+]
+

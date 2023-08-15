@@ -1,0 +1,210 @@
+[
+    {
+        "Titulo":"Supermercado Brasil Loja 2",
+        "Descricao":"Supermercado e Loja",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Brasil",
+        "Link":"/Local/Privado/Supermercados/Brasil2",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Supermercado Brasil",
+        "Descricao":"Supermercado e Loja",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Brasil",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Brasil",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"ÉBASICO",
+        "Descricao":"Variedade de produtos",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Goias",
+        "Link":"/Local/Privado/Supermercados/EBASICO",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Supermercado Brasil Loja 3",
+        "Descricao":"Supermercado e Loja",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Goias",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Brasil-Loja-3",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Supermercado Couto",
+        "Descricao":"Av. Goiás, 226 - Carrilho, Goianésia - GO, 76380-000",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Goias",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Couto",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Supermercado Dupiaui",
+        "Descricao":"R. 32, 415 - Oeste, Goianésia - GO, 76380-000",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"32",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Dupiaui",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Atacadão Dia a Dia",
+        "Descricao":"R. 32, 415 - Oeste, Goianésia - GO, 76380-000",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Av. Goiás",
+        "Link":"/Local/Privado/Supermercados/Atacadao-Dia-a-Dia",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Supermercado Mundial",
+        "Descricao":"Atacado & Varejo",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Av. Contorno",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Mundial",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"MERCADINHO RAPOSO",
+        "Descricao":"Supermercado RAPOSO",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"36",
+        "Link":"/Local/Privado/Supermercados/MERCADINHO-RAPOSO",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Super Couto 40",
+        "Descricao":"Crescendo como uma família",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"40",
+        "Link":"/Local/Privado/Supermercados/Super-Couto",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Mercearia e Convêniencia Top 10",
+        "Descricao":"Servindo Bem para Servir Sempre",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Contorno",
+        "Link":"/Local/Privado/Supermercados/Mercearia-e-Conveniencia-Top-10/",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Mercadinho Catalão",
+        "Descricao":"O Ponto Certo Para sua Compras",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Bahia",
+        "Link":"/Local/Privado/Supermercados/Mercadinho-Catalao/",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"MERCADINHO MOTA",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Bahia",
+        "Link":"/Local/Privado/Supermercados/MERCADINHO-MOTA/",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Supermercado Favorito",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Brasil",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Favorito/",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"MERCADINHO DO VALE",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"3",
+        "Link":"/Local/Privado/Supermercados/MERCADINHO-DO-VALE/",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Supermercado Itapuã",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Santos Dumont",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Itapua/",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"SUPERMERCADO NORTE SUL",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Brasil Oeste",
+        "Link":"/Local/Privado/Supermercados/SUPERMERCADO-NORTE-SUL/",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Super Parque",
+        "Descricao":"Parque das Palmeiras",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Santos Dumont",
+        "Link":"/Local/Privado/Supermercados/Super-Parque/",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Supermercado Estrela",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"34",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Estrela/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Supermercado Covoa",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Santos Dumont",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Covoa/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Mercearia & Panificadora Torres",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"Flamboyant",
+        "Link":"/Local/Privado/Supermercados/Mercearia-Panificadora-Torres/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Supermercado Batista",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"12",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Batista/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Mercadinho W20",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"20",
+        "Link":"/Local/Privado/Supermercados/Mercadinho-W20/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Supermercado Litoral",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"3",
+        "Link":"/Local/Privado/Supermercados/Supermercado-Litoral/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Comercial Teixeira",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"1",
+        "Link":"/Local/Privado/Supermercados/Comercial-Teixeira/",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Alô Barato verduraõ e mercearia",
+        "Descricao":"Supermercado",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Rua":"12",
+        "Link":"/Local/Privado/Supermercados/Alo-Barato-verdurao-e-mercearia/",
+        "Data":"Jul de 2023"
+    }
+]

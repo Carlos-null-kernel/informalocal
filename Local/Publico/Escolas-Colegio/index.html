@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviços Públicos Escolas/Colégio - Goianésia InformaLocal</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <style>
+        body {
+        font-family: 'Montserrat', sans-serif;
+        }
+        .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        }
+
+        .button {
+        background-color: rgb(0, 64, 124);
+        color: white;
+        border: none;
+        padding: 20px 50px;
+        font-size: 24px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        width: 80%;
+        max-width: 700px;
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        }
+
+        .button i {
+        margin-right: 10px;
+        }
+
+        .button:hover {
+        background-color: #c53;
+        }
+        .local {
+        background-color: #f2f2f2;
+        padding: 10px;
+      }
+
+      .local a {
+        display: inline-block;
+        text-decoration: none;
+        color: #333;
+        font-size: 14px;
+        margin-right: 10px;
+      }
+
+      .local a:last-of-type {
+        margin-right: 0;
+      }
+
+      .local span.separator {
+        display: inline-block;
+        color: #333;
+        font-size: 14px;
+        margin-right: 10px;
+      }
+
+      .local span.separator:before {
+        content: "/";
+      }
+
+      .local a:hover {
+        color: #0077b5;
+      }
+        </style>
+        <link rel="stylesheet" href="/arquivos/css/main.css">
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-34RJ7W87T5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-34RJ7W87T5');
+</script>
+    </head>
+      <body>
+        <nav class="navbar">
+            <a href="/" class="logo">Serviços Públicos Escolas/Colégio - Goianésia InformaLocal</a>
+            <ul class="navbar-nav" id="navbar-itens-id">
+            </ul>
+          </nav>
+          <div class="container-local">
+            <div class="local">
+                <a href="/">Inicio</a>
+                <span class="separator"></span>
+                <a href="/Local">Local</a>
+                <span class="separator"></span>
+                <a href="/Local/Publico">Publico</a>
+                <span class="separator"></span>
+                <a href="/Local/Publico/Escolas-Colegio">Escolas/Colégios</a>
+              </div>
+        <div class="container">
+          <button class="button" onclick="window.location.href ='/Local/Publico/Escolas-Colegio/Estadual/'"><span class="material-symbols-outlined">school</span> Escola/Colégio Estadual</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Escolas-Colegio/Municipal/'"><span class="material-symbols-outlined">school</span> Escola/Colégio Municipal</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Escolas-Colegio/Municipal/Creche/'"><span class="material-symbols-outlined">school</span> Creche Municipal</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Escolas-Colegio/Todos/'"><span class="material-symbols-outlined">school</span> Todos</button>
+        </div>
+        <script src="/arquivos/javascript/main.js"></script>
+      </body>
+      
+</html>

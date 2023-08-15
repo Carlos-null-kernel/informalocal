@@ -1,0 +1,51 @@
+[
+    {
+        "Titulo":"Colegio Decisão Unidade 1",
+        "Descricao":"Unidade 1 Calção de Couro",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Escolas-Colegio/Colegio-Decisao-Unidade-1",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Colegio Decisão Unidade 2",
+        "Descricao":"Unidade 2 Calção de Couro",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Escolas-Colegio/Colegio-Decisao-Unidade-2",
+        "Rua":"27",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Espaço Decisão",
+        "Descricao":"Calção de Couro",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Escolas-Colegio/Espaco-Decisao",
+        "Rua":"20",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Live English",
+        "Descricao":"Inglês com Excelência - R. 29, 360 - Centro, Goianésia - GO, 76380-097",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Escolas-Colegio/Live-English",
+        "Rua":"29",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Centro Educacional de Goianésia - CEG KIDS",
+        "Descricao":"Ensino Infantil, Ensino Fundamental",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Escolas-Colegio/Centro-Educacional-de-Goianesia",
+        "Rua":"Av. Minas Gerais",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"EDUCANDARIO INFANTIL TIA MINERVINA",
+        "Descricao":"Escola de Alfabetizacao Tia Minervina",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Escolas-Colegio/Tia-Minervina",
+        "Rua":"20",
+        "Data":"Mai de 2023"
+    }
+]
+

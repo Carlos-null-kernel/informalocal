@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bar do Piriquito - Goianésia InformaLocal</title>
+    <link rel="stylesheet" href="/arquivos/css/main.css">
+    <link rel="stylesheet" href="/arquivos/css/pages.css">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/img/Icon-180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/Icon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/Icon-32.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="/assets/img/Icon-180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/Icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/Icon-512.png">
+    <script>
+        function MostrarnoGoogleMaps() {
+            document.getElementById("Localgooglemaps").innerHTML = `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d720.7223949644251!2d-49.118814910528975!3d-15.311590800576596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935cc164d4e57ccf%3A0x16d79ce695d1d066!2sBar%20do%20Piriquito!5e0!3m2!1spt-BR!2sbr!4v1684703281414!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`;
+            document.getElementById("MostrarnoGoogleMapsBt").remove();
+        }
+    </script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-34RJ7W87T5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-34RJ7W87T5');
+</script>
+    </head>
+  <body>
+    <nav class="navbar">
+        <a href="/" class="logo">Bar do Piriquito - Goianésia InformaLocal</a>
+        <ul class="navbar-nav" id="navbar-itens-id">
+        </ul>
+      </nav>
+    <div class="container">
+        <div class="local">
+            <a href="/">Inicio</a>
+            <span class="separator"></span>
+            <a href="/Local">Local</a>
+            <span class="separator"></span>
+            <a href="/Local/Privado/">Privado</a>
+            <span class="separator"></span>
+            <a href="/Local/Privado/Comidas-e-bebidas/drinks/">Bebidas</a>
+            <span class="separator"></span>
+            <a href="/Local/Privado/Comidas-e-bebidas/drinks/Bar-do-Piriquito/">Bar do Piriquito</a>
+          </div>          
+      <h1>Informações de Bar do Piriquito</h1>
+      <div class="info">
+        <span>Nome:</span> Bar do Piriquito
+      </div>
+      <div class="info">
+        <span>Número:</span> 342
+      </div>
+      <div class="info">
+        <span>Rua/Av:</span> Rua 29 (Esq. com a rua 36)
+      </div>
+      <div class="info">
+        <span>Entre quais ruas/av:</span> Rua 36 e Rua 34
+      </div>
+      <div class="info">
+        <span>Setor/bairro:</span> São Cristovao
+      </div>
+      <div class="info">
+        <span>Data de publicação:</span>Maio de 2023
+      </div>
+      <div class="info">
+        <span>Classificação:</span> Bebidas
+      </div>
+      <button class="Googlemapasbotao" id="MostrarnoGoogleMapsBt" onclick="MostrarnoGoogleMaps()">Mostrar no Google Maps</button>
+      <div id="Localgooglemaps"></div>
+    </div>
+    <script src="/arquivos/javascript/main.js"></script>
+  </body>
+</html>

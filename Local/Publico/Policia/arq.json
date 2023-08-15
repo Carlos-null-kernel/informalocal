@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Polícia Civil",
+        "Descricao":"Avenida Brasil, nº 419 – Setor Universitário – CEP:  76.380-000 – Goianésia – GO, Delegada: Poliana Bergamo Lomaz",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Policia/Policia-Civil",
+        "Rua":"15",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Polícia Militar de Goiás",
+        "Descricao":"Copom Polícia Militar de Goiás - Quartel Da PMGO",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Policia/Policia-Militar-de-Goias",
+        "Rua":"21",
+        "Data":"Mai de 2023"
+    }
+]
+

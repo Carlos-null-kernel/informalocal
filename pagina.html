@@ -1,0 +1,62 @@
+    <style>
+    /* Estilos para o layout responsivo */
+    * {
+      box-sizing: border-box;
+    }
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+    .column {
+      float: left;
+      width: 100%;
+      padding: 10px;
+    }
+    @media screen and (min-width: 600px) {
+      .column {
+        width: 50%;
+      }
+    }
+    @media screen and (min-width: 900px) {
+      .column {
+        width: 33.33%;
+      }
+    }
+    /* Estilos para os cartões */
+    .card {
+      background-color: #f7f7f7;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .card h2 {
+      margin-top: 0;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    .card p {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+  </style>
+  <div class="row">
+    <!-- Cartão 1 -->
+    <div class="column">
+      <div class="card">
+        <h2>Título da primeira postagem</h2>
+        <p>Data da postagem: 12 de maio de 2023</p>
+        <p>Conteúdo da postagem: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.</p>
+      </div>
+    </div>
+    <!-- Cartão 2 -->
+    <div class="column">
+      <div class="card">
+        <h2>Título da segunda postagem</h2>
+        <p>Data da postagem: 10 de maio de 2023</p>
+        <p>Conteúdo da postagem: Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.</p>
+      </div>
+    </div>
+    <!-- Adicione mais colunas conforme necessário -->
+  </div>
+

@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Auto Escola Habilidade",
+        "Descricao":"Auto Escola",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Auto-Escola/Auto-Escola-Habilidade",
+        "Rua":"28",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Auto Escola Sinal Verde",
+        "Descricao":"Auto Escola",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Auto-Escola/Auto-Escola-Sinal-Verde",
+        "Rua":"31",
+        "Data":"Mai de 2023"
+    }
+]
+

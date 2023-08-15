@@ -1,0 +1,21 @@
+.lista {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lista li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.Rua {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.CEP {
+  background-color: #f1f1f1;
+  padding: 5px 10px;
+  border-radius: 4px;
+}

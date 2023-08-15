@@ -1,0 +1,67 @@
+[
+    {
+        "Titulo":"Concept Gym",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/Concept-Gym/",
+        "Rua":"Goiás",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"ONE Bodycenter",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/ONE-Bodycenter/",
+        "Rua":"Goiás",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Corpus Academia",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/Corpus-Academia-de-Goianesia/",
+        "Rua":"Goiás",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Life Training Personal Studio",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/Life-Training-Personal-Studio/",
+        "Rua":"Brasil",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"TOP FITNESS ACADEMIA",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/TOP-FITNESS-ACADEMIA/",
+        "Rua":"Brasil",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Aquática Academia",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/Aquatica-Academia/",
+        "Rua":"29",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Academia Personal Fit",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/Academia-Personal-Fit/",
+        "Rua":"27",
+        "Data":"Jul de 2023"
+    },
+    {
+        "Titulo":"Arena Fitness Academia",
+        "Descricao":"Academia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Academia/Arena-Fitness-Academia/",
+        "Rua":"9",
+        "Data":"Jul de 2023"
+    }
+]
+

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviços Públicos - Goianésia InformaLocal</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <style>
+      body {
+      font-family: 'Montserrat', sans-serif;
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 80px;
+      }
+
+      .button {
+      background-color: rgb(0, 64, 124);
+      color: white;
+      border: none;
+      padding: 20px 50px;
+      font-size: 24px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      width: 80%;
+      max-width: 700px;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      }
+
+      .button i {
+      margin-right: 10px;
+      }
+
+      .button:hover {
+      background-color: #c53;
+      }
+      .local {
+      background-color: #f2f2f2;
+      padding: 10px;
+    }
+
+    .local a {
+      display: inline-block;
+      text-decoration: none;
+      color: #333;
+      font-size: 14px;
+      margin-right: 10px;
+    }
+
+    .local a:last-of-type {
+      margin-right: 0;
+    }
+
+    .local span.separator {
+      display: inline-block;
+      color: #333;
+      font-size: 14px;
+      margin-right: 10px;
+    }
+
+    .local span.separator:before {
+      content: "/";
+    }
+
+    .local a:hover {
+      color: #0077b5;
+    }
+      </style>
+      <link rel="stylesheet" href="/arquivos/css/main.css">
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-34RJ7W87T5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-34RJ7W87T5');
+</script>
+    </head>
+      <body>
+        <nav class="navbar">
+            <a href="/" class="logo">Serviços Públicos - Goianésia InformaLocal</a>
+            <ul class="navbar-nav" id="navbar-itens-id">
+            </ul>
+          </nav>
+          <div class="container-local">
+            <div class="local">
+                <a href="/">Inicio</a>
+                <span class="separator"></span>
+                <a href="/Local">Local</a>
+                <span class="separator"></span>
+                <a href="/Local/Publico">Publico</a>
+              </div>
+        <div class="container">
+          <div><h3>Emergência</h3><hr></div>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Bombeiros/'"><span class="material-symbols-outlined">fire_truck</span> Bombeiro</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Hospitais/'"><span class="material-symbols-outlined">local_hospital</span> Hospital</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Unidade-de-Saude/'"><span class="material-symbols-outlined">local_hospital</span> Unidade de Saúde</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Policia/'"><span class="material-symbols-outlined">local_police</span> Polícia</button>
+          <div><h3>Educação</h3><hr></div>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Escolas-Colegio/'"><span class="material-symbols-outlined">school</span> Escolas/Colégio</button>
+          <div><h3>Finanças</h3><hr></div>
+          <button class="button" onclick="window.location.href ='/Local/Publico/loteria-loterica/'"><span class="material-symbols-outlined">money</span> Loteria/Lotéria</button>
+          <div><h3>Outros</h3><hr></div>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Aeroporto/'"><span class="material-symbols-outlined">flight</span> Aeroporto</button>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Secretaria-Municipal/'"><span class="material-symbols-outlined">admin_panel_settings</span> Secretaria Municipal</button>
+          <div><h3>União de todos os locais Público</h3><hr></div>
+          <button class="button" onclick="window.location.href ='/Local/Publico/Todos/'" title="União de todos os locais"><span class="material-symbols-outlined">search</span> Todos</button>
+        </div>
+        <script src="/arquivos/javascript/main.js"></script>
+      </body>
+      
+</html>

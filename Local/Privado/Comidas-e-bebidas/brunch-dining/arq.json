@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Bar do Paulo",
+        "Descricao":"Comidas e Bebidas (Drinks & Food)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Comidas-e-bebidas/brunch-dining/Bar-do-Paulo/",
+        "Rua":"36",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Amadeu´s Bar e Restaurante",
+        "Descricao":"Comidas e Bebidas (Drinks & Food)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Comidas-e-bebidas/brunch-dining/Amadeus-Bar-e-Restaurante/",
+        "Rua":"17",
+        "Data":"Jun de 2023"
+    }
+]
+

@@ -1,0 +1,75 @@
+[
+    {
+        "Titulo":"Escola Estadual Carlos Gomes",
+        "Descricao":"Em Frente A Praca Santa Cecilia",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Escola-Estadual-Carlos-Gomes/",
+        "Rua":"03",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Escola Estadual Presidente Kennedy",
+        "Descricao":"Ensino público, 6° ao 9°",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Escola-Estadual-Presidente-Kennedy/",
+        "Rua":"25",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Colégio Estadual Jalles Machado",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Colegio-Estadual-Jalles-Machado/",
+        "Rua":"14",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Colégio Estadual Da Polícia Militar De Goiás",
+        "Descricao":"Ensino público - CEPMG",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Colegio-Estadual-Da-Policia-Militar-De-Goias/",
+        "Rua":"27",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Escola Estadual Presidente Costa E Silva",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Escola-Estadual-Presidente-Costa-E-Silva/",
+        "Rua":"38",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Colégio Estadual Laurentino Martins",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Colegio-Estadual-Laurentino-Martins/",
+        "Rua":"36",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Escola Estadual Padre Astério Pascoal",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Escola-Estadual-Padre-Asterio-Pascoal/",
+        "Rua":"08",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Escola Estadual Luiz Gonzaga Sobrinho",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Escola-Estadual-Luiz-Gonzaga-Sobrinho/",
+        "Rua":"35",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Escola Estadual Pedro Mendonça",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Estadual/Escola-Estadual-Pedro-Mendonca/",
+        "Rua":"Vila Nova Aurora",
+        "Data":"Jun de 2023"
+    }
+]
+

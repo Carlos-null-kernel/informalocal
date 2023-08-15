@@ -1,0 +1,572 @@
+[
+    {
+        "Titulo": "Academia da saúde",
+        "Telefone": "(62) 3935-1008",
+        "Horario": "Das 07h às 10h30 e das 16h às 19h30"
+    },
+    {
+        "Titulo": "Aeroporto Municipal",
+        "Telefone": "(62) 3353-8891",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Cemitério Municipal Jordelino José da Silva",
+        "Telefone": "(62) 3935-1050",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Centro de Atenção Psicossocial – CAPS",
+        "Telefone": "(62) 3935-1012",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Centro de Reabilitação Alcione Miclos",
+        "Telefone": "(62) 3935-1018",
+        "Horario": "Das 07:00 às 11:00 e das 13:00 às 17:00"
+    },
+    {
+        "Titulo": "Centro de Saúde Arturo Bermudez Mayorga",
+        "Telefone": "(62) 3935-1091",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "CMEI Dona Mercedes Lopes da Silva",
+        "Telefone": "(62) 3935-1091",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "CMEI Luciléia Costa",
+        "Telefone": "(62) 3353-2185",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Conselho Tutelar",
+        "Telefone": "(62) 3935-1043",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Maria Joana Rodrigues",
+        "Telefone": "(62) 3935-1030",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Dona Onofra Alves Rosa",
+        "Telefone": "(62) 3935-1089",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Dona Verônica",
+        "Telefone": "(62) 3935-1078",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Joaquim Mendes da Costa",
+        "Telefone": "(62) 3353-2465",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal José Luiz M. Chaves “ Zereco”",
+        "Telefone": "(62) 3935-1056",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Manoel Braollos Martins",
+        "Telefone": "(62) 3935-1029",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Márcio Túlio Oliveira Santana",
+        "Telefone": "(62) 3935-1085",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Tomaz Antão de Carvalho",
+        "Telefone": "(62) 3935-1084",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Valdemar Luiz de Moura",
+        "Telefone": "(62) 3935-1092",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Creche Municipal Maria Aparecida Fonseca",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Departamento do Bolsa Família",
+        "Telefone": "(62) 3389-9426",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Departamento Municipal de Iluminação",
+        "Telefone": "(62) 3935-1011",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Departamento Municipal de Vigilância Sanitária",
+        "Telefone": "(62) 3935-1041",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Departamento de Posturas",
+        "Telefone": "(62) 3389-9477",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Departamento de Obras",
+        "Telefone": "(62) 3389-9445",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Departamento de Comunicação",
+        "Telefone": "(62) 3389-9452",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "EMAD e EMAP",
+        "Telefone": "(62) 3935-1022",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Antônio Fernandes",
+        "Telefone": "(62) 3353-1082",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Antônio Ottoni da Silva",
+        "Telefone": "(62) 3935-1071",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Casinha Feliz",
+        "Telefone": "(62) 3935-1032",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Deodato de Oliveira",
+        "Telefone": "(62) 3935-1004",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Eloi Alves da Oliveira",
+        "Telefone": "(62) 3305-3162",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Evangélica Monte Moriá",
+        "Telefone": "(62) 3353-0123",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Gotinhas de Luz",
+        "Telefone": "(62) 3935-1081",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Hermínio Lopes",
+        "Telefone": "(62) 3935-1005",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Imorvides Naves",
+        "Telefone": "(62) 3935-1086",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal João Manoel da Silva",
+        "Telefone": "(62) 3935-1067",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Lauro da Penha",
+        "Telefone": "(62) 3353-8015",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Luiz de Oliveira",
+        "Telefone": "(62) 3935-1079",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Magnólia Protásio Machado",
+        "Telefone": "(62) 3935-1017",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Padre Jesus Osés Pagolo",
+        "Telefone": "(62) 3935-1073",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Professor Francisco de Assis Pereira",
+        "Telefone": "(62) 3038-1013",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Professor Gessy Justino de Faria",
+        "Telefone": "(62) 3935-1075",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Professora Judith Leite",
+        "Telefone": "(62) 3935-1072",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Professora Maria Gerusa Carbonaro de Andrade",
+        "Telefone": "(62) 3935-1087",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Sr. Eliziário José de Oliveira",
+        "Telefone": "(62) 3935-1076",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Escola Municipal Sr. Saint-Clair Ottoni da Silva",
+        "Telefone": "(62) 3935-1074",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Farmácia Municipal",
+        "Telefone": "(62) 3935-1053",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Funasa",
+        "Telefone": "(62) 3935-1040",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Fundação Crescer",
+        "Telefone": "(62) 3935-1049",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Gabinete do prefeito",
+        "Telefone": "(62) 3389-9483",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Hospital Municipal Irmã Fanny Duran",
+        "Telefone": "(62) 3935-1038",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Marcenaria Municipal",
+        "Telefone": "(62) 3935-1095",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "NASF Avelino Modesto de Araújo",
+        "Telefone": "(62) 3935-1022",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "NASF Pedro Miguel",
+        "Telefone": "(62) 3935-1022",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Prefeitura Municipal",
+        "Telefone": "(62) 3389-9400",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Procuradoria Jurídica",
+        "Telefone": "(62) 3389-9462",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Avelino Modesto Araújo",
+        "Telefone": "(62) 3353-8838",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Maria Piedade",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Nairo Cintra",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Dona Maria Silva",
+        "Telefone": "(62) 3353-5257",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Hermínio Lopes da Silva",
+        "Telefone": "(62) 3935-1035",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Pedro Miguel de Oliveira",
+        "Telefone": "(62) 3353-4728",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Domingos dos Santos Silva",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Manoelino Pereira Dias",
+        "Telefone": "(62) 3353-8980",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Avelina Gomes Gonçalves",
+        "Telefone": "(62) 3353-8991",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Valdelícia de Sousa Amorim",
+        "Telefone": "(62) 3353-4176",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Geraldo Gomes",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Mané Chapéu",
+        "Telefone": "(62) 3353-8856",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família de Juscelândia",
+        "Telefone": "(62) 3038-1000",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Básica de Saúde de Natinópolis",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Básica de Saúde Francisco José Monteiro",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade saúde da Família Joaquim Cordeiro Telles",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Sebastiana de Lourdes Rodrigues Camargo",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da Família Noraldino Rodrigues Porto",
+        "Telefone": "(62) 3353-8949",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Básica de Saúde Francisco Pereira dos Santos",
+        "Telefone": "(62) 3353-2420",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Básica de Saúde Realino Vieira da Mota",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Básica de Saúde José Balbino Vieira",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Saúde da família Geraldo Rogério dos Santos",
+        "Telefone": "Não Adicionado",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Unidade Básica de Saúde André de Sousa Lima",
+        "Telefone": "(62) 3353-8940",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal da Casa Civil",
+        "Telefone": "(62) 3389-9424",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Cultura",
+        "Telefone": "(62) 3935-1021",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Desenvolvimento Econômico e Social",
+        "Telefone": "(62) 3935-1015",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Educação",
+        "Telefone": "(62) 3935-1032",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Escritório de Projetos",
+        "Telefone": "(62) 3389-9442",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Esporte, Juventude e Lazer",
+        "Telefone": "(62) 3389-9467",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Finanças",
+        "Telefone": "(62) 3389-9415",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Infraestrutura",
+        "Telefone": "(62) 3935-1010",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Meio Ambiente",
+        "Telefone": "(62) 3935-1019",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Promoção Social",
+        "Telefone": "(62) 3389-9434",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Secretaria Municipal de Saúde",
+        "Telefone": "(62) 3935-1022",
+        "Horario": "Das 7:00 as 11:00 e das 13:00 as 17:00"
+    },
+    {
+        "Titulo": "Serralheria Municipal",
+        "Telefone": "(62) 3935-1095",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Sesi/Senai",
+        "Telefone": "(62) 3353-5271",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Superintendência Municipal de Trânsito",
+        "Telefone": "(62) 3389-9458",
+        "Horario": "Das 7:30 as 11:00 e das 13:00 as 17:30"
+    },
+    {
+        "Titulo": "Ambulância (SAMU)",
+        "Telefone": "192",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Bombeiros",
+        "Telefone": "193",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Centro de Valorização da Vida (CVV)",
+        "Telefone": "141",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Comunicação para portadores de necessidades especiais",
+        "Telefone": "142",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Delegacia da Mulher",
+        "Telefone": "180",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Defesa Civil",
+        "Telefone": "199",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Delegacias Regionais do Trabalho",
+        "Telefone": "158",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Detran",
+        "Telefone": "154",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Direitos humanos",
+        "Telefone": "100",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Disque denúncia",
+        "Telefone": "181",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Governo Federal",
+        "Telefone": "138",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Guarda Municipal",
+        "Telefone": "153",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Ibama",
+        "Telefone": "152",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Informação de código de acesso de assinante",
+        "Telefone": "102",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Justiça Eleitoral",
+        "Telefone": "148",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Polícia Militar",
+        "Telefone": "190",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Polícia Rodoviária Federal",
+        "Telefone": "191",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Polícia Federal",
+        "Telefone": "194",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Polícia Civil",
+        "Telefone": "197",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Procon",
+        "Telefone": "151",
+        "Horario": "Não Adicionado"
+    },
+    {
+        "Titulo": "Serviços de emergência no Mercosul",
+        "Telefone": "128",
+        "Horario": "Não Adicionado"
+    }
+]

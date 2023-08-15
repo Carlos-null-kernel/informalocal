@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Goianésia InformaLocal</title>
+  <meta name="description"
+    content="Encontre comércios, lojas, mercados e locais públicos perto de você no InformaLocal. Encontre CEPs, telefones e informações de contato. Facilite sua busca agora!">
+  <link rel="stylesheet" href="/arquivos/css/main.css">
+  <link rel="stylesheet" href="/arquivos/css/index.css">
+  <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/img/Icon-180.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/Icon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/Icon-32.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/img/Icon-180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/Icon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/Icon-512.png">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+    <style>
+      #cookie-banner {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #f2f2f2;
+        padding: 10px;
+        text-align: center;
+        box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+        z-index: 9999;
+      }
+    
+      #cookie-banner p {
+        margin: 0;
+      }
+    
+      #cookie-banner button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 4px;
+      }
+    
+      /* Altera a cor do botão para preto se o plano de fundo for claro */
+      #cookie-banner button {
+        color: #000;
+        margin: 10px;
+      }
+    </style>
+    <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-34RJ7W87T5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-34RJ7W87T5');
+  </script>
+</head>
+
+<body>
+  <nav class="navbar">
+    <a href="/" class="logo">Goianésia InformaLocal</a>
+    <ul class="navbar-nav" id="navbar-itens-id">
+    </ul>
+    <form id="Formbuscar">
+      <input type="text" id="Idbuscar" name="nome" placeholder="Pesquisar">
+      <button type="button" onclick="buscar()"><span class="material-symbols-outlined">search</span></button>
+    </form>
+  </nav>
+  <div class="row">
+    <div id="item-container"></div>
+    <button id="load-previous" onclick="displayPrevious()">Anterior</button>
+    <button id="load-more" onclick="displayNext()">Proximo</button>
+    <script src="main.js"></script>
+  </div>
+  <script src="/arquivos/javascript/main.js"></script>
+</body>
+
+</html>

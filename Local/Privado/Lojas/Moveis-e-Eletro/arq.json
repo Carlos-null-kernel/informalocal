@@ -1,0 +1,51 @@
+[
+    {
+        "Titulo":"Móveis Estrela 1",
+        "Descricao":"Loja de Móveis e Eletrodomésticos (Loja 1)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Moveis-e-Eletro/Moveis-Estrela-1/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Móveis Estrela 2",
+        "Descricao":"Loja de Móveis e Eletrodomésticos (Loja 2)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Moveis-e-Eletro/Moveis-Estrela-2/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Móveis Estrela 3",
+        "Descricao":"Loja de Móveis e Eletrodomésticos (Loja 3)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Moveis-e-Eletro/Moveis-Estrela-3/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Móveis Estrela 4",
+        "Descricao":"Loja de Móveis e Eletrodomésticos (Loja 4)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Moveis-e-Eletro/Moveis-Estrela-4/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Móveis Estrela 5",
+        "Descricao":"Loja de Móveis e Eletrodomésticos (Loja 5)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Moveis-e-Eletro/Moveis-Estrela-5/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Móveis Estrela 6",
+        "Descricao":"Loja de Móveis e Eletrodomésticos (Loja 6)",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Lojas/Moveis-e-Eletro/Moveis-Estrela-6/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    }
+]
+

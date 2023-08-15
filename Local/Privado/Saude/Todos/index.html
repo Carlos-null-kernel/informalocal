@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todos os locais "Saúde" - Goianésia InformaLocal</title>
+    <link rel="stylesheet" href="/arquivos/css/main.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <style>
+    #Formbuscar {
+    display: flex;
+    align-items: center;
+    }
+
+    #Formbuscar label {
+      margin-right: 10px;
+      font-size: 16px;
+    }
+
+    #Formbuscar input[type="text"] {
+      padding: 5px 10px;
+      border: 2px solid #ccc;
+      border-radius: 5px;
+      font-size: 16px;
+      flex: 1;
+    }
+
+    #Formbuscar button {
+      padding: 5px 10px;
+      background-color: #4CAF50;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    #Formbuscar button:hover {
+      background-color: #3e8e41;
+    }
+
+    </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-34RJ7W87T5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-34RJ7W87T5');
+</script>
+    </head>
+<body>
+    <nav class="navbar">
+        <a href="/" class="logo">Todos os locais "Saúde" - Goianésia InformaLocal</a>
+        <ul class="navbar-nav" id="navbar-itens-id">
+            </ul>
+        <form id="Formbuscar">
+          <input type="text" id="Idbuscar" name="nome" placeholder="Pesquisar" required>
+          <button type="button" onclick="buscar()"><span class="material-symbols-outlined">search</span></button>
+        </form>        
+      </nav>
+        <div id="item-container"></div>
+        <button id="load-previous" onclick="displayPrevious()">Anterior</button>
+        <button id="load-more" onclick="displayNext()">Proximo</button>
+        <script src="main.js"></script>
+        <script src="/arquivos/javascript/main.js"></script>
+</body>
+</html>

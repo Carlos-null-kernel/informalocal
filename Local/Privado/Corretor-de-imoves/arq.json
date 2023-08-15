@@ -1,0 +1,35 @@
+[
+    {
+        "Titulo":"JK Corretor de Imóveis",
+        "Descricao":"Corretor de Imóveis",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Corretor-de-imoves/JK-Corretor-de-Imoves/",
+        "Rua":"31",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Caetano Imóveis",
+        "Descricao":"Corretor de Imóveis",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Corretor-de-imoves/Caetano-Imoveis/",
+        "Rua":"29",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Policarpo Imóveis",
+        "Descricao":"Corretor de Imóveis",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Corretor-de-imoves/Policarpo-Imoveis/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"BR Imóveis",
+        "Descricao":"Corretor de Imóveis",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Corretor-de-imoves/BR-Imoveis/",
+        "Rua":"Minas Gerais",
+        "Data":"Mai de 2023"
+    }
+]
+

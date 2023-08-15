@@ -1,0 +1,27 @@
+[
+    {
+        "Titulo":"Hotel Rodoviário",
+        "Descricao":"Hotel",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Hotel/Hotel-Rodoviario/",
+        "Rua":"28",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Hotel Goiatuba",
+        "Descricao":"Hotel",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Hotel/Hotel-Goiatuba/",
+        "Rua":"28",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Kamur Hotel",
+        "Descricao":"Hotel",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Hotel/Kamur-Hotel/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    }
+]
+

@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Bar do Piriquito",
+        "Descricao":"Bebidas",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Comidas-e-bebidas/drinks/Bar-do-Piriquito/",
+        "Rua":"29",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Butekao Chopperia e Pestiscaria",
+        "Descricao":"Bebidas",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Comidas-e-bebidas/drinks/Butekao-Chopperia-e-Pestiscaria/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    }
+]
+

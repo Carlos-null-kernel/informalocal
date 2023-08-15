@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Rezende Corretora de Seguros",
+        "Descricao":"Corretora de Seguros",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Corretora-de-Seguros/Rezende-Corretora-de-Seguros/",
+        "Rua":"Minas Gerais",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"MaisGarra Administradora e Corretora de Seguros",
+        "Descricao":"Corretora de Seguros",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Corretora-de-Seguros/MaisGarra/",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    }
+]
+

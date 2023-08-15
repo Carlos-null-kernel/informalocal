@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Mecânica Compacta",
+        "Descricao":"Oficina mecânica",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Automotiva/Mecanica/Mecanica-Compacta/",
+        "Rua":"32",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Auto Peças e Mecânica Menezes",
+        "Descricao":"Oficina mecânica",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Automotiva/Mecanica/Auto-Pecas-e-Mecanica-Menezes/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    }
+]
+

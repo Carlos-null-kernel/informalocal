@@ -1,0 +1,35 @@
+[
+    {
+        "Titulo":"Varanda's Restaurante",
+        "Descricao":"Restaurante",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Restaurante/Varandas-Restaurante/",
+        "Rua":"08",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Restaurante Vó Maria",
+        "Descricao":"Restaurante",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Restaurante/Restaurante-vo-Maria/",
+        "Rua":"18",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Restaurante Cidadão de Goianésia",
+        "Descricao":"Restaurante",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Restaurante/Restaurante-Cidadao-de-Goianesia/",
+        "Rua":"26",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Restaurante Fazenda Grill",
+        "Descricao":"Restaurante",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Restaurante/Restaurante-Fazenda-Grill/",
+        "Rua":"Goiás",
+        "Data":"Jun de 2023"
+    }
+]
+

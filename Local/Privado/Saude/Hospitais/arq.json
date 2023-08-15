@@ -1,0 +1,19 @@
+[
+    {
+        "Titulo":"Hospital São Carlos",
+        "Descricao":"Hospital particular",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Hospitais/Hospital-Sao-Carlos",
+        "Rua":"26",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Hospital Santa Luzia",
+        "Descricao":"Hospital particular",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Hospitais/Hospital-Santa-Luzia",
+        "Rua":"Antonio",
+        "Data":"Jun de 2023"
+    }
+]
+

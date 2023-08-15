@@ -1,0 +1,42 @@
+[
+    {
+        "Titulo":"Droga Luz",
+        "Descricao":"Av. Brasil, 344 (Esq. com 29) - Centro, Goianésia - GO, 76380-000",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Farmacia/Droga-Luz",
+        "Rua":"Brasil",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"DROGARIA VIVA BEM",
+        "Descricao":"Av. Brasil - Centro, Goianésia - GO, 76380-000",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Farmacia/DROGARIA-VIVA-BEM",
+        "Rua":"Brasil",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Drogaria DROGATEM",
+        "Descricao":"R. 34, 499 - Vila Nova Aurora, Goianésia - GO, 76380-000",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Farmacia/Drogaria-DROGATEM",
+        "Rua":"34",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Drogaria Mais Saude (Nossa Rede)",
+        "Descricao":"Nossa Rede",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Farmacia/Drogaria-Mais-Saude-Nossa-Rede",
+        "Rua":"Goiás",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Farmácia Medicalvip",
+        "Descricao":"Nossa Rede",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Privado/Saude/Farmacia/Farmacia-Medicalvip",
+        "Rua":"36",
+        "Data":"Mai de 2023"
+    }
+]

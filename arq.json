@@ -1,0 +1,26 @@
+[
+    {
+        "Titulo":"Encontrar locais em Goianésia",
+        "Descricao":"Informações de locais. Encontre facilmente endereços correspondentes a nomes específicos com nossa ferramenta de busca de endereços.",
+        "Imagem":"/arquivos/imagens/Raiz/062023/underground.webp",
+        "ImagemA":"Locais - Image by philm1310 from Pixabay",
+        "Link":"/Local/",
+        "Data":"Abr de 2023"
+    },
+    {
+        "Titulo":"Encontrar CEP em Goianésia",
+        "Descricao":"Informações de Bairro/Setor Vivalle Goianésia. Encontre facilmente endereços correspondentes a nomes específicos com nossa ferramenta de busca de endereços.",
+        "Imagem":"/arquivos/imagens/Raiz/062023/street.webp",
+        "ImagemA":"Numero Rua - Image by John R Perry from Pixabay",
+        "Link":"/Local/CEP/",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Telefone de Serviço Público",
+        "Descricao":"Telefone de Serviço de Utilidade Pública como: Ambulância (SAMU); Bombeiros; Polícia Militar. Os serviços de utilidade pública são atividades essenciais.",
+        "Imagem":"/arquivos/imagens/Raiz/062023/phone.webp",
+        "ImagemA":"Telefone - Image by C. Koch from Pixabay",
+        "Link":"/Telefone/",
+        "Data":"Mai de 2023"
+    }
+]

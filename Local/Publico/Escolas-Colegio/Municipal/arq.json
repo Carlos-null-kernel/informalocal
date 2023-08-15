@@ -1,0 +1,155 @@
+[
+    {
+        "Titulo":"Escola Municipal Casinha Feliz",
+        "Descricao":"Ensino Fundamental, Anos Iniciais",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Casinha-Feliz/",
+        "Rua":"03",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Professora Judith Leite",
+        "Descricao":"Ensino Fundamental, Anos Iniciais",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/ESC-PROF-JUDITH-LEITE/",
+        "Rua":"20",
+        "Data":"Mai de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Lauro da Penha",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Lauro-da-Penha/",
+        "Rua":"Andorinha",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Antônio Fernandes",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Antonio-Fernandes/",
+        "Rua":"Contorno",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Sr. Saint-Clair Ottoni da Silva",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Antonio-Ottoni-da-Silva/",
+        "Rua":"Vila Nova Aurora",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Deodato de Oliveira",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Deodato-de-Oliveira/",
+        "Rua":"04",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Eloi Alves da Oliveira",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Eloi-Alves-da-Oliveira/",
+        "Rua":"Cemitério",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Evangélica Monte Moriá",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Evangelica-Monte-Moria/",
+        "Rua":"Brasil",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Gotinhas de Luz",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Gotinhas-de-Luz/",
+        "Rua":"Brasil",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Hermínio Lopes",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Herminio-Lopes/",
+        "Rua":"Contorno",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Imorvides Naves",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Imorvides-Naves/",
+        "Rua":"37",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal João Manoel da Silva",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Joao-Manoel-da-Silva/",
+        "Rua":"22",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Luiz de Oliveira",
+        "Descricao":"Escola Municipal de Tempo Integral Luiz de Oliveira",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Luiz-de-Oliveira/",
+        "Rua":"Jacarandá",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Magnólia Protásio Machado",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Magnolia-Protasio-Machado/",
+        "Rua":"Ulisses Guimarães",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Padre Jesus Osés Pagolo",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Padre-Jesus-Oses-Pagolo/",
+        "Rua":"17",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Professor Francisco de Assis Pereira",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Professor-Francisco-de-Assis-Pereira/",
+        "Rua":"Vilma Ribeiro de Castro",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Professor Gessy Justino de Faria",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Professor-Gessy-Justino-de-Faria/",
+        "Rua":"32",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Professora Maria Gerusa Carbonaro de Andrade",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Professora-Maria-Gerusa-Carbonaro-de-Andrade/",
+        "Rua":"Pará",
+        "Data":"Jun de 2023"
+    },
+    {
+        "Titulo":"Escola Municipal Sr. Eliziário José de Oliveira",
+        "Descricao":"Ensino público",
+        "Imagem":"/arquivos/imagens/exemplo.png",
+        "Link":"/Local/Publico/Escolas-Colegio/Municipal/Escola-Municipal-Sr-Eliziario-Jose-de-Oliveira/",
+        "Rua":"Contorno",
+        "Data":"Jun de 2023"
+    }
+]
+
